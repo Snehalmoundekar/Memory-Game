@@ -19,4 +19,4 @@ A **fun memory game** where players match pairs of shuffled **emojis**. The game
 ## 📌 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Snehalmoundekar/Memory-Game
+   https://github.com/Snehalmoundekar/Memory-Game
